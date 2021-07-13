@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+html{
+  font-family:"Orbitron";
+  font-size:24px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:#2d3436;
+  color:white;
+  text-align:center;
+}
+.main-title{
+  font-size:1.3rem;
+  margin:1rem;
+}
+.length-control{
+  display:flex;
+  flex-wrap:wrap;
+  margin:1rem;
+ }
+button{
+  margin-left:1rem;
+  margin-right:1rem;
+  color:#2d3436;
+}
